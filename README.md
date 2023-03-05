@@ -1,1 +1,1 @@
-# namtineUI勉強のためのリポジトリ
+# namtineUI 勉強のためのリポジトリ
